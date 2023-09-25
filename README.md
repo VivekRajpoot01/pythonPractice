@@ -10,7 +10,7 @@ Welcome to the Python Practice repository! This repository is a space for you to
 
    ```
    git clone https://github.com/VivekRajpoot01/pythonPractice.git
-
+   ```
 
 ## Project 1: Number Guessing Game
 
@@ -53,7 +53,7 @@ while(guess_count<guess_limit):
 
 
 print("Correct number was: ", rand_no)
-
+```
 ## Project 2: Simple Car Game
 
 ### Overview
@@ -99,4 +99,4 @@ while command != "quiet":
         print("I don't understand this..")
 
     inp = input()
-
+```
