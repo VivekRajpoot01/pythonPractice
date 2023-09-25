@@ -33,7 +33,7 @@ Welcome to the Python Practice repository! This repository is a space for you to
 7. The game will end, and you can choose to play again or exit the program.
 
 ### Code Explanation
-'''
+```
 import random
 
 guess_count = 0
